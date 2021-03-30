@@ -3,7 +3,7 @@
 
 ## CONTACTS:
 > Email:  yuliya4pl@gmail.com  
-> Phone: +48907785318
+> Phone: +48970785318
 
 ## Portfolio: 
 [yuliyaby.com](https://yuliyaby.com)
