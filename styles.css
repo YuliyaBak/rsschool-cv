@@ -180,3 +180,18 @@ section:after {
   display: table;
   clear: both;
 }
+/* Style the footer */
+footer {
+  background-color: #3449dc;
+  padding: 20px;
+  text-align: left;
+  color:#fff;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin:0px;
+}
+footer a {
+  color: #fff;
+  font-weight: 700;
+}
